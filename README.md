@@ -1,1 +1,2 @@
 # Kingdom-Choices-Grupo-3-4-4-2026
+Este día termine algunas funciones para lo que seria saber en donde esta el usuario , si esta en el menú en el juego o ingresando su nombre al principio , luego hice otra función para saber que botón elegía en el menú , si elegía iniciar partida tendría que clickear en tal coordenada (x e y) y así con los demás botones que serian cargar partida o salir. Aunque todavía estaba viendo como era el tema de los botones para poder usarlos en pantalla.
