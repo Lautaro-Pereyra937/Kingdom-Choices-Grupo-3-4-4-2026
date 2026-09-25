@@ -1,1 +1,2 @@
 # Kingdom-Choices-Grupo-3-4-4-2026
+el dia de la fecha lo que hice fue realizar el primer codigo del juego Kingdom Choices (junto a los otros integrantes), fue un codigo basico cree la clase personaje , sprite , partida y otras mas meti un par de sprites (los mas basicos) . Aunque todavia no lo inicie ya que todavia faltaban bastantes cosas , como terminar los botones del menu y un poquito del inicio de la partida.
