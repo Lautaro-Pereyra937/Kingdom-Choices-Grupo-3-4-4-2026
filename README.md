@@ -1,1 +1,2 @@
 # Kingdom-Choices-Grupo-3-4-4-2026
+Hoy no avanzamos mucho porque el profesor mando un trabajo , trabajamos los últimos 10-15 minutos con el tema del juego , Traverso nos explico que para interactuar con los botones no se usan los sprites porque obviamente no van a ejecutar nada , para poder usarlos y que ejecuten algo hay que ingresar el Sprite de CADA botón y definirlos , ahí si se va a poder clickearlos , así que este fin de semana voy a trabajar con el tema de los botones para ya poder avanzar con el tema de la partida.
