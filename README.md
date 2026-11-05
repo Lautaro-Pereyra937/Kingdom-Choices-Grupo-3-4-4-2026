@@ -1,1 +1,2 @@
 # Kingdom-Choices-Grupo-3-4-4-2026
+El día de hoy lo que hice fue avanzar con la carpeta de campo que se entrega el 5/11. Agregue sprites del juego , como los de los personajes , estructuras y mas. Explique funcionamientos del juego , de que se trata , como obtener oro , como ganas , cuando perdes , como funciona cada estructura , ideas a futuro y mas. Cuando logremos hacer el árbol de habilidades en el juego también lo agregaremos en la carpeta de campo.
